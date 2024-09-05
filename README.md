@@ -7,3 +7,14 @@ Mutter tries to communicate with nvidia driver after its already been shut down
 
 What this does?
 This closes mutter on suspend/hibernate and reopens it on resume. Thats it.
+
+
+# How to run?
+Just clone the repo and run install.sh
+
+```bash
+git clone https://github.com/dineshdevkota001/gnome-nvidia-suspend-systemd
+cd ./gnome-nvidia-suspend-systemd
+chmod +x ./install.sh
+./install.sh
+```
