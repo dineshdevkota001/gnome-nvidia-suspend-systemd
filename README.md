@@ -18,3 +18,5 @@ cd ./gnome-nvidia-suspend-systemd
 chmod +x ./install.sh
 ./install.sh
 ```
+
+Sourced from a Nvidia forum discussion. Its pretty easy to do as is. This is just a QOL script.
